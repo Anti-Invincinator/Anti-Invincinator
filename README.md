@@ -49,4 +49,4 @@ Tech: C#, ML.NET, BlazorWASM, LSTM, ARIMA
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dravid)
 - 🐱 [GitHub](https://github.com/Anti-Invincinator)
-- 📫 Email: dravid@yourdomain.dev (optional)
+- 📫 Email: kpdravid@gmail.com
