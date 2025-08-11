@@ -17,6 +17,8 @@ Welcome to my digital space where code meets creativity and research meets real-
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 
 ---
 
