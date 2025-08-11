@@ -43,5 +43,4 @@ Tech: YOLOv8, SODA Dataset, FastAPI, OpenCV, Docker
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dravid)
-- 🐱 [GitHub](https://github.com/Anti-Invincinator)
 - 📫 Email: kpdravid@gmail.com
