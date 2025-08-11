@@ -26,14 +26,9 @@ Welcome to my digital space where code meets creativity and research meets real-
 > AI-powered system that extracts structural elements from real-world construction images and auto-generates CAD annotations.  
 Tech: YOLOv8, SODA Dataset, FastAPI, OpenCV, Docker
 
-### 📚 [Readality AI VR Recommender](https://github.com/Anti-Invincinator/VR_Chatbot)
-> A voice-controlled immersive book recommendation system using LLMs and VR.  
-Tech: Unity, OpenAI, Gemini, FastAPI, LangChain, Whisper
-
-### 💹 Innomondial FinTech Predictor
-> Predicts stock and housing market trends using ML models deployed via Azure.  
-Tech: C#, ML.NET, BlazorWASM, LSTM, ARIMA
-
+### [🌈 Color Recommendations](https://github.com/yashrith/colour-analysis-with-cnn)
+> This project is a Deep Learning-based Skin Tone Analysis and Color Recommendation System that uses advanced machine learning models and computer vision techniques
+ to predict a person’s skin tone and suggest suitable color palettes for their styling preferences.
 ---
 
 ## 🧠 Interests & Research
