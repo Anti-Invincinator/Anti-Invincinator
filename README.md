@@ -31,6 +31,14 @@ Tech: YOLOv8, SODA Dataset, FastAPI, OpenCV, Docker
 ### [🌈 Color Recommendations](https://github.com/yashrith/colour-analysis-with-cnn)
 > This project is a Deep Learning-based Skin Tone Analysis and Color Recommendation System that uses advanced machine learning models and computer vision techniques
  to predict a person’s skin tone and suggest suitable color palettes for their styling preferences.
+
+### [📄 Augmented Document Reader](https://github.com/Anti-Invincinator/augmented-document-reader)
+> Single FastAPI service that extracts entities from **PDF/DOCX/Chat**:
+
+- **PDF** → LLM (Gemini by default, optional GPT switch)
+- **DOCX** → rule-based parser (`python-docx`)
+- **Chat/TXT** → general NER model (HF) + light post-rules
+
 ---
 
 ## 🧠 Interests & Research
