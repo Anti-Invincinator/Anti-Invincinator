@@ -1,62 +1,71 @@
-# 👋 Hi, I'm Dravid
+<div align="center">
 
-🧠 AI/ML Developer | 🤖 Forward Deployed Engineer | 🚀 Full-Stack Engineer | 🎮 Game Developer | 📊 Quant & FinTech
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=4285F4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dravid+%F0%9F%91%8B;Applied+AI+Engineer+%7C+Forward+Deployed+Engineer;Agentic+AI+%7C+RAG+%7C+LLMOps" alt="Typing SVG" />
 
-Welcome to my digital space where code meets creativity and research meets real-world applications. I work across a broad tech stack—from low-level C++ to high-level agentic AI systems and LLM inference APIs.
+5+ years building agentic AI, RAG, and LLMOps systems for production — from enterprise integrations to VR and computer vision.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dravid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kpdravid@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Anti-Invincinator)
 
-## 🔧 Technologies & Tools
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+<table>
+<tr>
+<td width="55%" valign="top">
 
-**Agentic AI & LLM Platforms**
+### 🧭 Focus
 
-[![Google Vertex AI Studio](https://img.shields.io/badge/-Google%20Vertex%20AI%20Studio-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
-[![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)](https://www.langchain.com/langgraph)
-[![Higgsfield](https://img.shields.io/badge/-Higgsfield-7C3AED?style=flat)](https://higgsfield.ai)
-[![Hermes](https://img.shields.io/badge/-Hermes-FF6B35?style=flat)](https://github.com/NousResearch/Hermes-Function-Calling)
+Agentic AI & RAG systems for enterprise production (LangGraph, AutoGen, Vertex AI Studio), LLM evaluation/LLMOps, and legacy-system integration — with a background in UAV autonomy and VR computer vision.
 
----
+</td>
+<td width="45%" valign="top">
 
-## 📂 Featured Projects
+### 🛠️ Stack
 
-### 🧠 [AutoDraftAI](https://github.com/Anti-Invincinator/AutoDraftAI)
-> AI-powered system that extracts structural elements from real-world construction images and auto-generates CAD annotations.
-Tech: YOLOv8, SODA Dataset, FastAPI, OpenCV, Docker
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,aws,azure,mongodb,unity,git&theme=dark" />
 
-### [🌈 Color Recommendations](https://github.com/yashrith/colour-analysis-with-cnn)
-> This project is a Deep Learning-based Skin Tone Analysis and Color Recommendation System that uses advanced machine learning models and computer vision techniques to predict a person's skin tone and suggest suitable color palettes for their styling preferences.
+[![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)](https://www.langchain.com/langgraph)
+[![AutoGen](https://img.shields.io/badge/AutoGen-00A67E?style=flat-square)](https://microsoft.github.io/autogen/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://www.ros.org/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
 
-### [📄 Augmented Document Reader](https://github.com/Anti-Invincinator/augmented-document-reader)
-> Single FastAPI service that extracts entities from **PDF/DOCX/Chat**:
-- **PDF** → LLM (Gemini by default, optional GPT switch)
-- **DOCX** → rule-based parser (`python-docx`)
-- **Chat/TXT** → general NER model (HF) + light post-rules
+</td>
+</tr>
+</table>
 
----
+### 📂 Projects
 
-## 🧠 Interests & Research
+<table>
+<tr>
+<td width="34%" valign="top">
 
-- 🔍 Generative AI (Google Vertex AI Studio, Higgsfield, Hermes, Phi-2, Mistral)
-- 🤖 Agentic AI systems & orchestration (LangGraph, AutoGen)
-- 🚁 Autonomous drones (ROS2 + PX4)
-- 🎮 Game Dev + ML agents (Unity + RL)
-- 📈 FinTech forecasting models
+**[🧠 AutoDraftAI](https://github.com/Anti-Invincinator/AutoDraftAI)**
+Extracts structural elements from construction images and auto-generates CAD annotations.
+`YOLOv8` `FastAPI` `OpenCV`
 
----
+</td>
+<td width="33%" valign="top">
 
-## 📫 Connect with Me
+**[🚁 ROS2 UAV Autonomy](https://github.com/Anti-Invincinator/ros2-uav-autonomy)**
+Modular ROS2 Foxy UAV stack with PX4, Gazebo SITL, and EKF-based state estimation.
+`ROS2` `PX4` `Gazebo`
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dravid)
-- 📫 Email: kpdravid@gmail.com
+</td>
+<td width="33%" valign="top">
+
+**[📄 Augmented Document Reader](https://github.com/Anti-Invincinator/augmented-document-reader)**
+FastAPI service extracting financial document entities from PDF/DOCX/chat using LLMs and NER.
+`Gemini` `NER` `FastAPI`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📫 Reach out on **[LinkedIn](https://www.linkedin.com/in/dravid)** or email **[kpdravid@gmail.com](mailto:kpdravid@gmail.com)**
+
+</div>
