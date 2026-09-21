@@ -39,16 +39,49 @@ Agentic AI & RAG systems shipped to production (LangGraph, AutoGen, Vertex AI St
 </tr>
 </table>
 
-### 🗺️ Where I Picked It Up
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=110&section=header&text=Where%20I%20Picked%20It%20Up&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=42" />
 
-| Role | Period | Stack |
-|---|---|---|
-| **Senior ML Engineer** (FDE/LLMOps) · Ford / HTC Global Services | Oct 2025–Present | `LangGraph` `AutoGen` `Vertex AI` `MDM Pipelines` `Tekton` `Terraform` `RAGAS` |
-| **ML Engineer** (VR) · Readality | Jun–Aug 2025 | `Unity` `OpenXR` `MediaPipe` `YOLOv5` `Phi-2 + RAG` |
-| **ML Engineer** · Innomondial | Feb–Jun 2025 | `ARIMA` `LSTM` `XGBoost` `Azure Functions` `ML.NET` |
-| **Backend Engineer** (Automation) · Rockstar Games | Jun 2022–Jan 2023 | `Python` `MongoDB` `Docker` `CI/CD` |
-| **AI Design Engineer** · NewSpace Research | Jan–Jun 2022 | `ROS` `UAV Autonomy` `Unity3D` `MATLAB` |
-| **AR/VR & Game Dev** · TAKELEAP, Accolite, Pixcel Play | 2020–2021 | `Unity` `Unreal` `Computer Vision` `Backend APIs` |
+<details open>
+<summary>🧠&nbsp;&nbsp;<b>Senior ML Engineer (FDE/LLMOps)</b> — Ford / HTC Global Services</summary>
+<br>
+
+![LangGraph](https://img.shields.io/badge/LangGraph-4285F4?style=flat-square) ![AutoGen](https://img.shields.io/badge/AutoGen-4285F4?style=flat-square) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square) ![MDM Pipelines](https://img.shields.io/badge/MDM_Pipelines-4285F4?style=flat-square) ![Tekton](https://img.shields.io/badge/Tekton-4285F4?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-4285F4?style=flat-square) ![RAGAS](https://img.shields.io/badge/RAGAS-4285F4?style=flat-square)
+</details>
+
+<details>
+<summary>🎮&nbsp;&nbsp;<b>ML Engineer (VR)</b> — Readality</summary>
+<br>
+
+![Unity](https://img.shields.io/badge/Unity-7C3AED?style=flat-square) ![OpenXR](https://img.shields.io/badge/OpenXR-7C3AED?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-7C3AED?style=flat-square) ![YOLOv5](https://img.shields.io/badge/YOLOv5-7C3AED?style=flat-square) ![Phi--2 + RAG](https://img.shields.io/badge/Phi--2_+_RAG-7C3AED?style=flat-square)
+</details>
+
+<details>
+<summary>📈&nbsp;&nbsp;<b>ML Engineer</b> — Innomondial</summary>
+<br>
+
+![ARIMA](https://img.shields.io/badge/ARIMA-00A67E?style=flat-square) ![LSTM](https://img.shields.io/badge/LSTM-00A67E?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-00A67E?style=flat-square) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-00A67E?style=flat-square) ![ML.NET](https://img.shields.io/badge/ML.NET-00A67E?style=flat-square)
+</details>
+
+<details>
+<summary>⚙️&nbsp;&nbsp;<b>Backend Engineer (Automation)</b> — Rockstar Games</summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-EA4B71?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-EA4B71?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-EA4B71?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-EA4B71?style=flat-square)
+</details>
+
+<details>
+<summary>🚁&nbsp;&nbsp;<b>AI Design Engineer</b> — NewSpace Research</summary>
+<br>
+
+![ROS](https://img.shields.io/badge/ROS-FF6B35?style=flat-square) ![UAV Autonomy](https://img.shields.io/badge/UAV_Autonomy-FF6B35?style=flat-square) ![Unity3D](https://img.shields.io/badge/Unity3D-FF6B35?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-FF6B35?style=flat-square)
+</details>
+
+<details>
+<summary>🕹️&nbsp;&nbsp;<b>AR/VR & Game Dev</b> — TAKELEAP, Accolite, Pixcel Play</summary>
+<br>
+
+![Unity](https://img.shields.io/badge/Unity-00BCD4?style=flat-square) ![Unreal](https://img.shields.io/badge/Unreal-00BCD4?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00BCD4?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-00BCD4?style=flat-square)
+</details>
 
 ### 📂 Projects
 
