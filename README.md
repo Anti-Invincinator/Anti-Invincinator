@@ -83,6 +83,13 @@ Agentic AI & RAG systems shipped to production (LangGraph, AutoGen, Vertex AI St
 ![Unity](https://img.shields.io/badge/Unity-00BCD4?style=flat-square) ![Unreal](https://img.shields.io/badge/Unreal-00BCD4?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00BCD4?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-00BCD4?style=flat-square)
 </details>
 
+<details>
+<summary>🎓&nbsp;&nbsp;<b>Post Graduate Certificate, AI & Machine Learning</b> — LaSalle College</summary>
+<br>
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-F4B400?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F4B400?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-F4B400?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-F4B400?style=flat-square) ![Responsible AI](https://img.shields.io/badge/Responsible_AI-F4B400?style=flat-square)
+</details>
+
 ### 📂 Projects
 
 <table>
