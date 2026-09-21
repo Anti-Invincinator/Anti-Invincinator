@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=4285F4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dravid+%F0%9F%91%8B;Applied+AI+Engineer+%7C+Forward+Deployed+Engineer;Agentic+AI+%7C+RAG+%7C+LLMOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4285F4&center=true&vCenter=true&width=820&lines=Hi+there%2C+I'm+Dravid+%F0%9F%91%8B;Applied+AI+Engineer+%7C+Forward+Deployed+Engineer;Agentic+AI+%7C+RAG+%7C+MDM+%7C+LLMOps" alt="Typing SVG" />
 
-5+ years building agentic AI, RAG, and LLMOps systems for production — from enterprise integrations to VR and computer vision.
+5+ years shipping production-ready agentic AI, RAG, and MDM data systems — from enterprise integrations to VR and computer vision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dravid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dravidkp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kpdravid@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Anti-Invincinator)
 
@@ -16,25 +16,39 @@
 
 ### 🧭 Focus
 
-Agentic AI & RAG systems for enterprise production (LangGraph, AutoGen, Vertex AI Studio), LLM evaluation/LLMOps, and legacy-system integration — with a background in UAV autonomy and VR computer vision.
+Agentic AI & RAG systems shipped to production (LangGraph, AutoGen, Vertex AI Studio), MDM & data transformation pipelines, LLM evaluation/LLMOps, and legacy-system integration — with a background in UAV autonomy and VR computer vision.
 
 </td>
 <td width="45%" valign="top">
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,aws,azure,mongodb,unity,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,fastapi,docker,aws,azure,mongodb,unity,git&theme=dark" />
 
 [![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)](https://www.langchain.com/langgraph)
+[![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square)](https://www.langchain.com/)
 [![AutoGen](https://img.shields.io/badge/AutoGen-00A67E?style=flat-square)](https://microsoft.github.io/autogen/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
+[![Hermes](https://img.shields.io/badge/Hermes-FF6B35?style=flat-square)](https://github.com/NousResearch/Hermes-Function-Calling)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://www.ros.org/)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
 
 </td>
 </tr>
 </table>
+
+### 🗺️ Where I Picked It Up
+
+| Role | Period | Stack |
+|---|---|---|
+| **Senior ML Engineer** (FDE/LLMOps) · Ford / HTC Global Services | Oct 2025–Present | `LangGraph` `AutoGen` `Vertex AI` `MDM Pipelines` `Tekton` `Terraform` `RAGAS` |
+| **ML Engineer** (VR) · Readality | Jun–Aug 2025 | `Unity` `OpenXR` `MediaPipe` `YOLOv5` `Phi-2 + RAG` |
+| **ML Engineer** · Innomondial | Feb–Jun 2025 | `ARIMA` `LSTM` `XGBoost` `Azure Functions` `ML.NET` |
+| **Backend Engineer** (Automation) · Rockstar Games | Jun 2022–Jan 2023 | `Python` `MongoDB` `Docker` `CI/CD` |
+| **AI Design Engineer** · NewSpace Research | Jan–Jun 2022 | `ROS` `UAV Autonomy` `Unity3D` `MATLAB` |
+| **AR/VR & Game Dev** · TAKELEAP, Accolite, Pixcel Play | 2020–2021 | `Unity` `Unreal` `Computer Vision` `Backend APIs` |
 
 ### 📂 Projects
 
@@ -66,6 +80,6 @@ FastAPI service extracting financial document entities from PDF/DOCX/chat using 
 
 <div align="center">
 
-📫 Reach out on **[LinkedIn](https://www.linkedin.com/in/dravid)** or email **[kpdravid@gmail.com](mailto:kpdravid@gmail.com)**
+📫 Reach out on **[LinkedIn](https://www.linkedin.com/in/dravidkp)** or email **[kpdravid@gmail.com](mailto:kpdravid@gmail.com)**
 
 </div>
